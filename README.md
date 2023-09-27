@@ -1,2 +1,2 @@
 # machine-learning-and-statistics
-this is it
+coursework belonging to Neil Anglim
