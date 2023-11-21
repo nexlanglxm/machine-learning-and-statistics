@@ -2,7 +2,7 @@
 
 # Machine Learning and Statistics Repository
 
-This repository contains separate tasks labeled from 1 to 5, addressing distinct analyses related to the Square root, chi-squared testing, t-testing .... ....  and an independent Iris dataset project.
+This repository contains separate tasks labeled from 1 to 5, addressing distinct analyses related to the Square root, chi-squared testing, t-testing, the Iris data set, Principal Component Analysis,  and an independent Iris dataset project.
 
 ## Requirements:
 
@@ -26,7 +26,27 @@ This repository contains separate tasks labeled from 1 to 5, addressing distinct
    Access the `tasks.ipynb` file.
    - For Iris Dataset Project: Open and explore the `project.ipynb` file.
 
-# Task 1:
+## Task 1: Square root using Newton's Method
+
+Square roots are difficult to calculate. In Python, you typically use the power operator (a double asterisk) or a package such as `math.` In this task, you should write a function `sqrt(x)` to approximate the square root of a floating point number x without using the power operator or a package.
+
+Rather, you should use the Newton’s method. Start with an initial guess for the square root called $z_0$. You then repeatedly improve it using the following formula, until the difference between some previous guess $z_i$ and the next $z_{i+1}$ is less than some threshold, say 0.01.
+
+## Task 2: scipy
+
+Consider the below contingency table (see task) based on a survey asking respondents whether they prefer coffee or tea and whether they prefer plain or chocolate biscuits. Use scipy.stats to perform a chi-squared test to see whether there is any evidence of an association between drink preference and biscuit preference in this instance.
+
+## Task 3: t-testing
+
+Perform a t-test on the famous penguins data set to investigate whether there is evidence of a significant difference in body mass of male and female gentoo penguins.
+
+## Task 4: Iris
+
+Using the famous iris data set, suggest whether the setosa class is easily separable from the other two classes. Provide evidence for your answer.
+
+## Task 5: PCA
+
+Perform Principal Component Analysis on the iris data set, reducing the number of dimensions to two. Explain the purpose of the analysis and your results.
 
 # Iris Dataset Project
 
