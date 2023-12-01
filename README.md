@@ -66,13 +66,13 @@ This project aims to explore classification algorithms using the famous Iris flo
 - **Exploring the Iris Dataset**:
   - Data visualization, statistical analysis, and characteristics of the Iris dataset.
 
-- **Introduction to K-Nearest Neighbors (k-NN))**:
-  - Explanation of k-NN and their roles in classification tasks.
+- **Introduction to Learning Algorithms: K-Nearest Neighbors & Support Vector Machines**:
+  - Explanation of k-NN/SVM and their roles in classification tasks.
   - The principles of each explored.
   - Concepts like hyperplanes, support vectors, and kernel functions.
-  - Explanation asto the applications of each.
+  - Explanation as to the applications of each.
 
-- **Implementation of k-NN using scikit-learn**:
+- **Implementation of chosen algorithm using scikit-learn**:
   - Code walkthrough demonstrating the implementation of a k-NN classifier on the Iris dataset.
   - Evaluation metrics and visualizations to assess the classifier's performance.
 
