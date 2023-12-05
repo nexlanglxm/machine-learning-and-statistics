@@ -78,6 +78,6 @@ This project aims to explore classification algorithms using the famous Iris flo
 
 ## References:
 - List of resources, articles, and documentation referred to during the project.
-- 
-> This repository was created for the Machine Learning and Statistics module, Higher Diploma in Science in Data Analytics at Atlantic Technological University, September to December 2023.
+ 
 ---
+> This repository was created for the Machine Learning and Statistics module, Higher Diploma in Science in Data Analytics at Atlantic Technological University, September to December 2023.
