@@ -1,22 +1,21 @@
----
-
 # Machine Learning and Statistics Repository
 
 This repository contains separate tasks labeled from 1 to 5, addressing distinct analyses related to the Square root, chi-squared testing, t-testing, the Iris data set, Principal Component Analysis,  and an independent Iris dataset project.
 
-## Requirements:
+## Requirements
 
 - Python 3.11.4 or later
 - Jupyter Notebooks (detailed below)
 - Libraries: pandas, matplotlib, scikit-learn (imports detailed in notebook)
 
-
 ## How to Use
 
 1. **Clone the Repository:**
+
    ```bash
     git clone https://github.com/nexlanglxm/machine-learning-and-statistics.git
     ```
+
 2. **Open the folder with:**
    - Jupyter Notebook,
    - JupyterLab or
@@ -48,12 +47,13 @@ Using the famous iris data set, suggest whether the setosa class is easily separ
 
 Perform Principal Component Analysis on the iris data set, reducing the number of dimensions to two. Explain the purpose of the analysis and your results.
 
-# Iris Dataset Project
+## Iris Dataset Project
 
-## Overview:
+## Overview
+
 This project aims to explore classification algorithms using the famous Iris flower dataset associated with Ronald A Fisher. The focus is on demonstrating an understanding of supervised learning, classification algorithms, and implementing at least one common classification algorithm using the scikit-learn Python library.
 
-## Contents of Notebook Files:
+## Contents of Notebook Files
 
 - **Introduction to Supervised Learning**:
   - Definition and principles of supervised learning.
@@ -76,8 +76,9 @@ This project aims to explore classification algorithms using the famous Iris flo
   - Code walkthrough demonstrating the implementation of a k-NN classifier on the Iris dataset.
   - Evaluation metrics and visualizations to assess the classifier's performance.
 
-## References:
-- List of resources, articles, and documentation referred to during the project.
- 
+## References
+
+- A list of resources, articles, and documentation referred to during the project are found at the end of the file, or cited throughout.
+
 ---
 > This repository was created for the Machine Learning and Statistics module, Higher Diploma in Science in Data Analytics at Atlantic Technological University, September to December 2023.
