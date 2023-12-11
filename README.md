@@ -1,10 +1,13 @@
 # Machine Learning and Statistics Repository
 
-This repository contains separate tasks labeled from 1 to 5, addressing distinct analyses related to the Square root, chi-squared testing, t-testing, the Iris data set, Principal Component Analysis,  and an independent Iris dataset project.
+- This repository was created for the Machine Learning and Statistics module, Higher Diploma in Science in Data Analytics at Atlantic Technological University, September to December 2023.
+- It contains tasks labeled from 1 to 5, addressing distinct analyses related to the Square root, chi-squared testing, t-testing, the Iris data set, Principal Component Analysis, and an independent Iris dataset project.
 
 ## Requirements
 
 - Python 3.11.4 or later
+- [Anaconda](https://www.anaconda.com/download)
+- [Visual Studio Code](https://code.visualstudio.com/Download)
 - Jupyter Notebooks (detailed below)
 - Libraries: pandas, matplotlib, scikit-learn (imports detailed in notebook)
 
@@ -17,8 +20,7 @@ This repository contains separate tasks labeled from 1 to 5, addressing distinct
     ```
 
 2. **Open the folder with:**
-   - Jupyter Notebook,
-   - JupyterLab or
+   - Jupyter Notebook
    - Visual Studio Code (with Jupyter support installed)
 3. **Navigate to the Specific Task:**
    - For Tasks:
@@ -33,11 +35,11 @@ Rather, you should use the Newton’s method. Start with an initial guess for th
 
 ## Task 2: scipy
 
-Consider the below contingency table (see task) based on a survey asking respondents whether they prefer coffee or tea and whether they prefer plain or chocolate biscuits. Use scipy.stats to perform a chi-squared test to see whether there is any evidence of an association between drink preference and biscuit preference in this instance.
+Consider the below contingency table (see task) based on a survey asking respondents whether they prefer coffee or tea and whether they prefer plain or chocolate biscuits. Use `scipy.stats` to perform a chi-squared test to see whether there is any evidence of an association between drink preference and biscuit preference in this instance.
 
 ## Task 3: t-testing
 
-Perform a t-test on the famous penguins data set to investigate whether there is evidence of a significant difference in body mass of male and female gentoo penguins.
+Perform a `t-test` on the famous penguins data set to investigate whether there is evidence of a significant difference in body mass of male and female gentoo penguins.
 
 ## Task 4: Iris
 
@@ -45,7 +47,7 @@ Using the famous iris data set, suggest whether the setosa class is easily separ
 
 ## Task 5: PCA
 
-Perform Principal Component Analysis on the iris data set, reducing the number of dimensions to two. Explain the purpose of the analysis and your results.
+Perform `Principal Component Analysis` on the iris data set, reducing the number of dimensions to two. Explain the purpose of the analysis and your results.
 
 ## Iris Dataset Project
 
@@ -81,4 +83,3 @@ This project aims to explore classification algorithms using the famous Iris flo
 - A list of resources, articles, and documentation referred to during the project are found at the end of the file, or cited throughout.
 
 ---
-> This repository was created for the Machine Learning and Statistics module, Higher Diploma in Science in Data Analytics at Atlantic Technological University, September to December 2023.
