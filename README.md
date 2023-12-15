@@ -61,18 +61,16 @@ This project aims to explore classification algorithms using the famous Iris flo
   - Definition and principles of supervised learning.
   - Importance of labeled data for training.
 
-- **Understanding Classification Algorithms**:
+- **Understanding Supervised Learning**:
   - Explanation of classification algorithms in supervised learning.
   - Discussion on the significance of classifying data.
 
 - **Exploring the Iris Dataset**:
   - Data visualization, statistical analysis, and characteristics of the Iris dataset.
 
-- **Introduction to Learning Algorithms: K-Nearest Neighbors & Support Vector Machines**:
-  - Explanation of k-NN/SVM and their roles in classification tasks.
-  - The principles of each explored.
-  - Concepts like hyperplanes, support vectors, and kernel functions.
-  - Explanation as to the applications of each.
+- **The chosen Learning Algorithm**:
+  - Explanation of k-NN and its roles in classification tasks.
+  - The principles explored.
 
 - **Implementation of chosen algorithm using scikit-learn**:
   - Code walkthrough demonstrating the implementation of a k-NN classifier on the Iris dataset.
@@ -80,6 +78,6 @@ This project aims to explore classification algorithms using the famous Iris flo
 
 ## References
 
-- A list of resources, articles, and documentation referred to during the project are found at the end of the file, or cited throughout.
+References are hyperlinked throughout the Jupyter notebook
 
 ---
