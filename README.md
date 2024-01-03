@@ -68,12 +68,12 @@ This project aims to explore classification algorithms using the famous Iris flo
 - **Exploring the Iris Dataset**:
   - Data visualization, statistical analysis, and characteristics of the Iris dataset.
 
-- **The chosen Learning Algorithm**:
-  - Explanation of k-NN and its roles in classification tasks.
+- **The chosen Learning Algorithms**:
+  - Explanation of k-NN and a brief section on Decision Trees and their roles in classification tasks.
   - The principles explored.
 
-- **Implementation of chosen algorithm using scikit-learn**:
-  - Code walkthrough demonstrating the implementation of a k-NN classifier on the Iris dataset.
+- **Implementation of chosen algorithms using scikit-learn**:
+  - Code walkthrough demonstrating the implementation of a k-NN classifier, and DT on the Iris dataset.
   - Evaluation metrics and visualizations to assess the classifier's performance.
 
 ## References
